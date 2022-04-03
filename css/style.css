@@ -1,0 +1,94 @@
+body {
+    font: normal;
+    max-width: 100%;
+    
+}
+
+.navbar {
+    background-color:#34495E ; 
+}
+
+.nav-link {
+    color: aliceblue;
+    
+}
+
+.meta {
+    padding: 10px;
+    border-radius: 50%;
+
+}
+
+.quem-somos {
+    background-color: #839192;
+    
+    font-size: 5px;
+}
+
+.margin {
+    padding-top: 60px; 
+    padding-bottom: 10px;
+  
+}
+
+.parceiros {
+    background-color: #839192;
+    
+    font-size: 5px;
+}
+
+.container {
+ margin-top: 100px;
+}
+
+.petz {
+    margin-top: 62px;
+}
+
+.h4 {
+    margin-top:50px
+}
+
+.rounded-circle {
+    margin:50px
+}
+
+.rounded-circle-furacao {
+    width: 200px;
+}
+
+.banner1 {
+    width: 100%;
+}
+
+.paceros {
+    margin-top: 20px;
+}
+
+.furacao {
+    margin-top: 0px;
+    height: 20px;
+}
+
+
+
+
+.face2 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.footer {
+    background-color:#34495E ;
+    padding-top:10px;
+}
+
+.ul {
+    list-style-type: none;
+    
+}
+
+.DEV {
+    margin-left:50px
+}
+
